@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "title": "Laptop Dell XPS 13",
+    "price": 1299.99,
+    "description": "Ultra-portable laptop with 13-inch display",
+    "category": "Electronics",
+    "stock": 45
+  },
+  {
+    "id": 2,
+    "title": "iPhone 15 Pro",
+    "price": 999.00,
+    "description": "Latest Apple smartphone with advanced camera",
+    "category": "Electronics",
+    "stock": 120
+  },
+  {
+    "id": 3,
+    "title": "Samsung 65\" 4K TV",
+    "price": 899.99,
+    "description": "Ultra HD television with Smart TV features",
+    "category": "Electronics",
+    "stock": 28
+  },
+  {
+    "id": 4,
+    "title": "Sony WH-1000XM5 Headphones",
+    "price": 399.99,
+    "description": "Premium noise-cancelling wireless headphones",
+    "category": "Audio",
+    "stock": 89
+  },
+  {
+    "id": 5,
+    "title": "iPad Pro 12.9",
+    "price": 1199.00,
+    "description": "Powerful tablet for creative professionals",
+    "category": "Electronics",
+    "stock": 34
+  },
+  {
+    "id": 6,
+    "title": "AirPods Pro",
+    "price": 249.00,
+    "description": "Apple wireless earbuds with noise cancellation",
+    "category": "Audio",
+    "stock": 156
+  },
+  {
+    "id": 7,
+    "title": "MacBook Pro 16",
+    "price": 2499.00,
+    "description": "Professional laptop with M3 Max processor",
+    "category": "Electronics",
+    "stock": 22
+  },
+  {
+    "id": 8,
+    "title": "Google Pixel 8",
+    "price": 799.00,
+    "description": "Google flagship smartphone with AI features",
+    "category": "Electronics",
+    "stock": 67
+  },
+  {
+    "id": 9,
+    "title": "Nintendo Switch OLED",
+    "price": 349.99,
+    "description": "Gaming console with OLED display",
+    "category": "Gaming",
+    "stock": 103
+  },
+  {
+    "id": 10,
+    "title": "PlayStation 5",
+    "price": 499.99,
+    "description": "Next-gen gaming console",
+    "category": "Gaming",
+    "stock": 41
+  },
+  {
+    "id": 11,
+    "title": "Xbox Series X",
+    "price": 499.99,
+    "description": "Microsoft's most powerful console",
+    "category": "Gaming",
+    "stock": 35
+  },
+  {
+    "id": 12,
+    "title": "DJI Mavic 3",
+    "price": 1999.00,
+    "description": "Professional drone with 4/3 CMOS camera",
+    "category": "Electronics",
+    "stock": 18
+  },
+  {
+    "id": 13,
+    "title": "GoPro Hero 12",
+    "price": 499.99,
+    "description": "Action camera for adventures",
+    "category": "Photography",
+    "stock": 76
+  },
+  {
+    "id": 14,
+    "title": "Canon EOS R6",
+    "price": 2499.00,
+    "description": "Professional mirrorless camera",
+    "category": "Photography",
+    "stock": 12
+  },
+  {
+    "id": 15,
+    "title": "Nikon Z9",
+    "price": 5499.00,
+    "description": "Flagship professional DSLR",
+    "category": "Photography",
+    "stock": 8
+  },
+  {
+    "id": 16,
+    "title": "Samsung Galaxy Watch 6",
+    "price": 299.99,
+    "description": "Smart watch with health monitoring",
+    "category": "Wearables",
+    "stock": 92
+  },
+  {
+    "id": 17,
+    "title": "Apple Watch Ultra",
+    "price": 799.00,
+    "description": "Rugged smartwatch for extreme conditions",
+    "category": "Wearables",
+    "stock": 54
+  },
+  {
+    "id": 18,
+    "title": "Fitbit Sense 2",
+    "price": 299.95,
+    "description": "Health and fitness smartwatch",
+    "category": "Wearables",
+    "stock": 78
+  },
+  {
+    "id": 19,
+    "title": "Amazon Echo Dot",
+    "price": 49.99,
+    "description": "Smart speaker with Alexa",
+    "category": "Smart Home",
+    "stock": 234
+  },
+  {
+    "id": 20,
+    "title": "Google Home Hub Max",
+    "price": 229.00,
+    "description": "Smart display with Google Assistant",
+    "category": "Smart Home",
+    "stock": 45
+  },
+  {
+    "id": 21,
+    "title": "Philips Hue Smart Lights",
+    "price": 199.99,
+    "description": "Smart lighting system",
+    "category": "Smart Home",
+    "stock": 112
+  },
+  {
+    "id": 22,
+    "title": "Ring Video Doorbell",
+    "price": 99.99,
+    "description": "Video doorbell with night vision",
+    "category": "Smart Home",
+    "stock": 87
+  },
+  {
+    "id": 23,
+    "title": "Dyson V15 Vacuum",
+    "price": 749.00,
+    "description": "Cordless vacuum cleaner",
+    "category": "Home Appliances",
+    "stock": 23
+  },
+  {
+    "id": 24,
+    "title": "Instant Pot Duo",
+    "price": 99.95,
+    "description": "Multi-use pressure cooker",
+    "category": "Kitchen",
+    "stock": 156
+  },
+  {
+    "id": 25,
+    "title": "Nespresso VertuoPlus",
+    "price": 199.00,
+    "description": "Automatic coffee machine",
+    "category": "Kitchen",
+    "stock": 64
+  },
+  {
+    "id": 26,
+    "title": "KitchenAid Stand Mixer",
+    "price": 329.00,
+    "description": "Professional stand mixer",
+    "category": "Kitchen",
+    "stock": 41
+  },
+  {
+    "id": 27,
+    "title": "LG OLED TV 77",
+    "price": 3999.99,
+    "description": "Premium OLED television",
+    "category": "Electronics",
+    "stock": 7
+  },
+  {
+    "id": 28,
+    "title": "Sony Soundbar HT-A9000",
+    "price": 1298.00,
+    "description": "Premium wireless soundbar system",
+    "category": "Audio",
+    "stock": 19
+  },
+  {
+    "id": 29,
+    "title": "Bose QuietComfort 45",
+    "price": 379.00,
+    "description": "Noise-cancelling headphones",
+    "category": "Audio",
+    "stock": 73
+  },
+  {
+    "id": 30,
+    "title": "Harman Kardon Citation",
+    "price": 199.99,
+    "description": "Premium smart speaker",
+    "category": "Audio",
+    "stock": 38
+  },
+  {
+    "id": 31,
+    "title": "Logitech MX Master 3",
+    "price": 99.99,
+    "description": "Professional wireless mouse",
+    "category": "Accessories",
+    "stock": 145
+  },
+  {
+    "id": 32,
+    "title": "Corsair Mechanical Keyboard",
+    "price": 199.99,
+    "description": "Gaming mechanical keyboard",
+    "category": "Accessories",
+    "stock": 98
+  },
+  {
+    "id": 33,
+    "title": "ASUS ROG Gaming Monitor",
+    "price": 599.99,
+    "description": "High refresh rate gaming monitor",
+    "category": "Electronics",
+    "stock": 29
+  },
+  {
+    "id": 34,
+    "title": "Herman Miller Aeron Chair",
+    "price": 1395.00,
+    "description": "Premium ergonomic office chair",
+    "category": "Furniture",
+    "stock": 15
+  },
+  {
+    "id": 35,
+    "title": "Flexispot Standing Desk",
+    "price": 499.00,
+    "description": "Electric adjustable standing desk",
+    "category": "Furniture",
+    "stock": 42
+  },
+  {
+    "id": 36,
+    "title": "Tesla Powerwall",
+    "price": 13500.00,
+    "description": "Home battery system",
+    "category": "Energy",
+    "stock": 11
+  },
+  {
+    "id": 37,
+    "title": "Yeelight Smart Light Strip",
+    "price": 49.99,
+    "description": "RGB smart light strip",
+    "category": "Smart Home",
+    "stock": 201
+  },
+  {
+    "id": 38,
+    "title": "Arlo Pro 4 Camera",
+    "price": 199.99,
+    "description": "Wireless security camera",
+    "category": "Smart Home",
+    "stock": 67
+  },
+  {
+    "id": 39,
+    "title": "Ubiquiti Dream Machine",
+    "price": 379.00,
+    "description": "Network security appliance",
+    "category": "Networking",
+    "stock": 22
+  },
+  {
+    "id": 40,
+    "title": "TP-Link Archer AX12",
+    "price": 159.99,
+    "description": "WiFi 6 router",
+    "category": "Networking",
+    "stock": 134
+  },
+  {
+    "id": 41,
+    "title": "Netgear Nighthawk Pro",
+    "price": 299.99,
+    "description": "Gaming router",
+    "category": "Networking",
+    "stock": 56
+  },
+  {
+    "id": 42,
+    "title": "Western Digital SSD 2TB",
+    "price": 179.99,
+    "description": "High-speed SSD storage",
+    "category": "Storage",
+    "stock": 89
+  },
+  {
+    "id": 43,
+    "title": "Seagate Barracuda 8TB",
+    "price": 129.99,
+    "description": "Internal hard drive",
+    "category": "Storage",
+    "stock": 102
+  },
+  {
+    "id": 44,
+    "title": "Samsung T7 Portable SSD",
+    "price": 149.99,
+    "description": "Portable SSD storage",
+    "category": "Storage",
+    "stock": 71
+  },
+  {
+    "id": 45,
+    "title": "Crucial P5 Plus",
+    "price": 99.99,
+    "description": "Fast NVMe SSD",
+    "category": "Storage",
+    "stock": 118
+  },
+  {
+    "id": 46,
+    "title": "Intel Core i9-13900K",
+    "price": 589.00,
+    "description": "High-end processor",
+    "category": "Computer Parts",
+    "stock": 33
+  },
+  {
+    "id": 47,
+    "title": "NVIDIA RTX 4090",
+    "price": 1599.00,
+    "description": "Flagship graphics card",
+    "category": "Computer Parts",
+    "stock": 9
+  },
+  {
+    "id": 48,
+    "title": "Corsair Vengeance RAM 32GB",
+    "price": 149.99,
+    "description": "High-performance RAM",
+    "category": "Computer Parts",
+    "stock": 85
+  },
+  {
+    "id": 49,
+    "title": "EVGA 850W Power Supply",
+    "price": 119.99,
+    "description": "Gold-rated power supply",
+    "category": "Computer Parts",
+    "stock": 64
+  },
+  {
+    "id": 50,
+    "title": "Noctua CPU Cooler",
+    "price": 89.99,
+    "description": "Premium air cooler",
+    "category": "Computer Parts",
+    "stock": 77
+  }
+]
